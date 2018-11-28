@@ -5,6 +5,7 @@
 *proyecto.cxx* el proyecto ^.^
 
 Cosas que faltan:
+- **Arreglar variable *puestos* en el tercer switch**
 - **Preguntar sobre la creación de cada objeto, ¿Qué tanto hay que crear?, ¿Es necesario pedir cada dato?**
 - **Preguntar que es lo que exactamente hay que hacer, yo solo he impreso el método datos en cada objeto.**
 - ¿Qué es *aptr* y por qué lo usa?, en dado caso de no enterarnos, hay que ver como le ponemos, a eso y al resto de variables random es están por ahí.
